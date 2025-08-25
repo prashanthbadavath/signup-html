@@ -88,7 +88,7 @@ body{
     width: 100%;
     margin-top: 24px;
     padding: 10px 0;
-    background: #32CDD5;
+    background: #314e51;
     border: none;
     border-radius: 99px;
     color: white;
@@ -104,4 +104,5 @@ body{
 .dont-have-an-account{
     font-weight: normal;
     margin-top: 12px;
+    
 }
